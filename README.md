@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gonzalo
-![](https://firebasestorage.googleapis.com/v0/b/github-profile-4004e.appspot.com/o/gonzalo%20lorenz%C3%B3n.gif?alt=media&token=3f2f8cee-f870-415f-9f4a-50b7e93d9624)
+![Soy un apasinado por la tecnología ](https://firebasestorage.googleapis.com/v0/b/react-eccomerce-979a7.appspot.com/o/Categorias%2Fgif.gif?alt=media&token=1244b168-01e1-4c79-85eb-a5c0c44d8716)
 
 My goal is to continue growing professionally, experimenting, learning and developing to disembark professionally and personally to bring the best to my co-workers and the company!
 
