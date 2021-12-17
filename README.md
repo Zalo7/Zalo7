@@ -18,3 +18,4 @@ Skills:  REACT / REDUX / JS / HTML / CSS / NODE JS /  SQL / ADOBE ILLUSTRATOR / 
 
 
 
+
