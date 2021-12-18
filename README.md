@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gonzalo
-![](https://firebasestorage.googleapis.com/v0/b/github-profile-4004e.appspot.com/o/gonzalo%20lorenz%C3%B3n1.gif?alt=media&token=3b4fc777-3fea-40e5-864b-247cd28c104dot.com/o/gonzalo%20lorenz%C3%B3n.mp4?alt=media&token=efad369b-40da-40a4-bdea-775bdc2427fa)
+![](https://firebasestorage.googleapis.com/v0/b/github-profile-4004e.appspot.com/o/gonzalo%20lorenz%C3%B3n14.gif?alt=media&token=ff281db9-51ed-48ed-acba-6911f7456ffc)
 
 My goal is to continue growing professionally, experimenting, learning and developing to disembark professionally and personally to bring the best to my co-workers and the company!
 
@@ -15,4 +15,5 @@ Skills:  REACT / REDUX / JS / HTML / CSS / NODE JS /  SQL / ADOBE ILLUSTRATOR / 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zalo7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/gonzalo-lorenzon-85b40a20b/)  
 
+ 
 
