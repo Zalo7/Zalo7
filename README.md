@@ -9,7 +9,7 @@ Skills:  REACT / REDUX / JS / HTML / CSS / NODE JS /  SQL / ADOBE ILLUSTRATOR / 
 
 - 🔭 I’m currently working on learning new technologies  
 - 🌱 I’m currently learning Mongo, Typescript, French, Portuguese and more 
-- 👯 I’m looking to collaborate on in a job position 
+- 👯 I’m looking to collaborate in a job position 
 - 📫 How to reach me: my gmail is: gonzalolorenzon@gmail.com 
 
 
