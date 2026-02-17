@@ -5,7 +5,7 @@ My goal is to continue growing professionally, experimenting, learning and devel
 
 You can see my projects and works here! 
 
-Skills:  REACT / REDUX / JS / HTML / CSS / NODE JS /  SQL / ADOBE ILLUSTRATOR / PHOTOSHOP /  PYTHON / GODOT 
+Skills:  REACT / REDUX / JS / NEXTJS / CSS / NODE JS /  SQL / ADOBE ILLUSTRATOR / PHOTOSHOP /  PYTHON / TYPESCRIPT 
 
 - 🔭 I’m currently working on learning new technologies  
 - 🌱 I’m currently learning Mongo, Typescript, French, Portuguese and more 
